@@ -28,7 +28,9 @@
       {
         "ts": "never"
       }
-    ]
+    ],
+    "no-useless-constructor": "off",
+    "no-param-reassign": "off"
   },
   "settings": {
     "import/resolver": {
